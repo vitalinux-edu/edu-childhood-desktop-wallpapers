@@ -1,0 +1,12 @@
+Source: edu-desktop-wallpapers
+Section: gnome
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux-edu/edu-desktop-wallpapers
+
+Package: edu-desktop-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: Wallpapers for Vitalinux Edu project
