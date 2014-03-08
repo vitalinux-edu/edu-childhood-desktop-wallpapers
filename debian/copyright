@@ -1,16 +1,16 @@
 Format: http://dep.debian.net/deps/dep5
 Upstream-Name: edu-desktop-wallpapers
 
-Files: usr/share/pixmaps/edu-desktop-wallpapers/fondo*
-Copyright: 2013 José Luis Murillo <joseluismurillogarcia@gmail.com>
+Files: usr/share/pixmaps/vitalinux/vitalinux-green.png
+Copyright: 2013 Flavia Jim <flaviajim93@gmail.com>
 License: GPL-3.0+
 
-Files: usr/share/pixmaps/edu-desktop-wallpapers/aguas_abajo.jpg
+Files: usr/share/pixmaps/vitalinux/vitalinux-grey.png
 Copyright: 2013 Pedro Delicado Ponce <pedroponce@gmail.com>
 License: GPL-3.0+
 
 Files: usr/share/gnome-background-properties/* debian/*
-Copyright: 2014 Jose Antonio Chavarría <jachavar@gmail.com>
+Copyright: 2013 Jose Antonio Chavarría <jachavar@gmail.com>
 License: GPL-3.0+
 
 License: GPL-3.0+

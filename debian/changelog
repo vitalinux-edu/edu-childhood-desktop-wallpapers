@@ -1,6 +1,11 @@
-edu-desktop-wallpapers (1.1-1) unstable; urgency=low
+edu-desktop-wallpapers (1.0-1) unstable; urgency=low
 
-  * Se incluyen fondos realizados de dominio público (closes vitalinux/Issues#4).
-  * Se incluyen fondos realizados de dominio público (closes vitalinux-edu/Issues#1).
+  * Se incluyen algunos fondos para iniciar el paquete de Vitalinux Edu
 
- -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 11 Jan 2014 09:57:42 +0200
+ -- José Luis Murillo García <joseluismurillogarcia@gmail.com>  Sat, 8 Mar 2014 16:45:42 +0200
+
+vx-desktop-wallpapers (1.0-1) unstable; urgency=low
+
+  * Se incluyen el fondo de Flavia y el modificado por Pedro.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Fri, 6 Dec 2013 16:45:42 +0200
