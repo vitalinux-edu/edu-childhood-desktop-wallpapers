@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Baby Tux Blue</name>
+        <name xml:lang="es">Baby Tux azul</name>
+        <filename>/usr/share/pixmaps/edu-childhood-desktop-wallpapers/babytux.png</filename>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Child walking</name>
+        <name xml:lang="es">Zagal paseando</name>
+        <filename>/usr/share/pixmaps/edu-childhood-desktop-wallpapers/zagal_paseando.png</filename>
+    </wallpaper>
+</wallpapers>
