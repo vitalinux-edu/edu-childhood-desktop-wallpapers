@@ -9,4 +9,4 @@ Homepage: https://github.com/vitalinux-edu/edu-childhood-desktop-wallpapers
 Package: edu-childhood-desktop-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
-Description: Wallpapers for Vitalinux Edu project
+Description: Wallpapers for Vitalinux Edu childhood project
