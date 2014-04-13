@@ -11,4 +11,9 @@
         <name xml:lang="es">Zagal paseando</name>
         <filename>/usr/share/pixmaps/edu-childhood-desktop-wallpapers/zagal_paseando.jpg</filename>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>Fondo Vitalinux Edu</name>
+        <name xml:lang="es">Fondo Vitalinux Edu</name>
+        <filename>/usr/share/pixmaps/edu-childhood-desktop-wallpapers/fondo_azul_aica.jpg</filename>
+    </wallpaper>
 </wallpapers>
